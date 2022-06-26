@@ -1,4 +1,5 @@
 ### First Day in School 
+![first day](https://github.com/jiannajinesh/School/blob/main/1/img/IMG-20220601-WA0024.jpg)
 [First Day in School - Youtube Video](https://www.youtube.com/watch?v=uLCZgonUKAs)
 
 ### World Environmental Day  
