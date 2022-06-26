@@ -2,4 +2,4 @@
 
 I am Jianna Jinesh. Iam Studying in CKC rajagiri School Mundathicode
 
-1. [Class 1](https://github.com/jiannajinesh/School/blob/Schoolmain/1/index.md)
+1. [Class 1](https://github.com/jiannajinesh/School/blob/gh-pages/1.md)
