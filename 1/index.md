@@ -29,5 +29,5 @@
 ![Basheerday Single photo](https://github.com/jiannajinesh/School/blob/main/1/img/Basheerday-pathumma.jpg)
 ![BasheerdayGroup Photo](https://github.com/jiannajinesh/School/blob/main/1/img/BasheerdayGroupPhoto.jpg)
 
-[Lamb A3 size Photo](https://github.com/jiannajinesh/School/blob/main/1/img/Goat12x18.png)
-[Llamb Sound]()
+[Lamb A3 size Photo](https://github.com/jiannajinesh/School/blob/main/1/img/Goat12x18.png)  - 
+[Llamb Sound](https://github.com/jiannajinesh/School/blob/main/1/img/goat.mp3)
