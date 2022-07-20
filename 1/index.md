@@ -34,3 +34,9 @@
 
 ### House
 ![House](https://github.com/jiannajinesh/School/blob/main/1/img/19072022-House.jpg)
+
+### Lunar Day July 21
+![lunar Day](https://github.com/jiannajinesh/School/blob/main/1/img/21-07-22-LunarDayFinal.jpg)
+
+[Download Outline for Coloring](https://github.com/jiannajinesh/School/blob/main/1/img/21-07-22-lunar%20day%20posteroutline.png)
+
