@@ -40,3 +40,4 @@
 
 [Download Outline for Coloring](https://github.com/jiannajinesh/School/blob/main/1/img/21-07-22-lunar%20day%20posteroutline.png)
 
+[Poster Making Youtube Video](https://youtu.be/U6iiLqtclwE)
