@@ -31,3 +31,6 @@
 
 [Lamb A3 size Photo](https://github.com/jiannajinesh/School/blob/main/1/img/Goat12x18.png)  - 
 [Llamb Sound](https://github.com/jiannajinesh/School/blob/main/1/img/goat.mp3)
+
+### House
+![House](https://github.com/jiannajinesh/School/blob/main/1/img/19072022-House.jpg)
